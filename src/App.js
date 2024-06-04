@@ -1,10 +1,10 @@
 import "./App.css";
-import UseFormik from "./components/UseFormik";
+import Validation from "./components/Validation";
 
 function App() {
   return (
     <div className="App">
-      <UseFormik />
+      <Validation />
     </div>
   );
 }
